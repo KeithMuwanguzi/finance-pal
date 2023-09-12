@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635855214657",
+    "project_id": "financepal-77d68",
+    "storage_bucket": "financepal-77d68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635855214657:android:6a0d2f8e086f8734c5cec0",
+        "android_client_info": {
+          "package_name": "keith.defualtstech.finance_pal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBseJC3sW3cAqxIcVu5c7Ojc4dZ4Rpf5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
